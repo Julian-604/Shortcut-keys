@@ -16,3 +16,9 @@ $ git add . && git commit -m "message" && git push origin main
 ##Alias frequently used commands
 
 `alias gpom= "git push origin main"`
+
+#HISTORY
+
+`$ history`
+
+`!121`
