@@ -13,11 +13,11 @@ To stop the sequence of commands when one fails, use && instead:
 
 $ git add . && git commit -m "message" && git push origin main
 
-##Alias frequently used commands
+## Alias frequently used commands
 
 `alias gpom= "git push origin main"`
 
-#HISTORY
+## HISTORY
 
 `$ history`
 
