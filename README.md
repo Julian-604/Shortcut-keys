@@ -12,3 +12,7 @@ Use `CTRL+U` to erase everything from the current cursor position to the beginni
 To stop the sequence of commands when one fails, use && instead:
 
 $ git add . && git commit -m "message" && git push origin main
+
+##Alias frequently used commands
+
+`alias gpom= "git push origin main"`
