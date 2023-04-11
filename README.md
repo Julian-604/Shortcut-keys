@@ -22,3 +22,8 @@ $ git add . && git commit -m "message" && git push origin main
 `$ history`
 
 `$ !121`
+
+#Change User Type: Standard to Admin
+
+
+`sudo usermod -aG sudo xxx`
